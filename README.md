@@ -1,2 +1,3 @@
-# k-means_bank_segmentaion
-group2 paper review
+# Customer_Segmentation_using_K-means CLuster Model
+## Group2 paper review
+### The repository contains the 
