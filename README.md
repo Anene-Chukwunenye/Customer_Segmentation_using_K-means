@@ -14,4 +14,9 @@
 
 
 
-#### The repository contains the a
+#### The repository contains the following files:
+1. A Powerpoint Slide
+2. An article giving full details on the project
+3. The dataset on which the model was trained
+4. The code containg the EDA and model creation
+5. The pickle file of the K-means model
